@@ -1,0 +1,647 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[     28809,        638]
+NotebookOptionsPosition[     24540,        566]
+NotebookOutlinePosition[     25024,        584]
+CellTagsIndexPosition[     24981,        581]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["\<\
+Wolfram India School 2022 Recommended and Preferred Reading/Video List\
+\>", "Title",
+ CellFrame->{{0, 0}, {3, 0}},
+ CellChangeTimes->{{3.73003210216862*^9, 3.730032107327916*^9}, {
+   3.7322779028554163`*^9, 3.7322779076852703`*^9}, {3.732278497768716*^9, 
+   3.732278501574946*^9}, {3.735559507972823*^9, 3.735559509665742*^9}, {
+   3.739905802491063*^9, 3.739905810704968*^9}, {3.740225160160273*^9, 
+   3.740225163111187*^9}, 3.740230064310842*^9, 3.74030544134837*^9, {
+   3.742575799383541*^9, 3.742575803494772*^9}, {3.763402373827448*^9, 
+   3.763402374320541*^9}, {3.767009553479499*^9, 3.7670095620546017`*^9}, {
+   3.791204869064559*^9, 3.791204869259684*^9}, {3.813931107904006*^9, 
+   3.813931117703985*^9}, {3.814617083562252*^9, 3.8146170985245256`*^9}, {
+   3.817207890294777*^9, 3.817207903620639*^9}, {3.8327673451136703`*^9, 
+   3.832767346573312*^9}, {3.846271115227338*^9, 3.846271118819888*^9}, {
+   3.846273408620449*^9, 
+   3.84627342250811*^9}},ExpressionUUID->"a386df05-4ac9-4493-806e-\
+5af600c171ce"],
+
+Cell[CellGroupData[{
+
+Cell["Week Zero: Online Lectures ", "Section",
+ CellChangeTimes->{{3.846271143793954*^9, 
+  3.8462711621604767`*^9}},ExpressionUUID->"009dae75-b1f5-4033-9484-\
+c2d24dd09d25"],
+
+Cell[CellGroupData[{
+
+Cell["Front End Introduction", "Subsubsection",
+ CellChangeTimes->{{3.847465128119877*^9, 3.847465135023011*^9}, {
+  3.847486218905987*^9, 
+  3.847486224617156*^9}},ExpressionUUID->"2dcc5de0-1ae6-4e90-8114-\
+8a9cdd2fcdab"],
+
+Cell["\<\
+Wolfram Mathematica (fka Mathematica by some of its users) is split into two \
+parts: the kernel and the front end. The kernel interprets expressions \
+(Wolfram Language code) and returns result expressions, which can then be \
+displayed by the front end.  The original front end,  designed by Theodore \
+Gray, consists of a notebook interface and allows the creation and editing of \
+notebook documents that can contain code, plaintext, images, audio, video and \
+graphics. Stating it simply, the cute front end is what gives Mathematica its \
+\[OpenCurlyDoubleQuote]look and feel\[CloseCurlyDoubleQuote]. Later on many \
+platforms have created nice and cool front-ends e.g. Jupyter notebook in \
+Python, but the folks at Wolfram have inspired it all, since 1988! Currently \
+the front end supports notebooks both in desktop and cloud versions. So \
+explore the front end (aka notebooks) features in these series of talks by \
+the experts to have continuously added to the front end features, styles and \
+design. \
+\>", "Text",
+ CellChangeTimes->{{3.847464067326701*^9, 3.847464074725398*^9}, {
+   3.847464129789617*^9, 3.8474643567214727`*^9}, {3.847464396530119*^9, 
+   3.847464539660953*^9}, {3.8474646192040653`*^9, 3.847464619665742*^9}, {
+   3.8474646560096397`*^9, 3.8474646653129463`*^9}, {3.847464769185177*^9, 
+   3.847464922342774*^9}, 
+   3.8474929220545607`*^9},ExpressionUUID->"804c2b20-c1eb-4355-a4a8-\
+1fee32f5c80e"],
+
+Cell[TextData[{
+ ButtonBox["Notebook Basics",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://www.wolfram.com/broadcast/video.php?c=504&v=3610"], None},
+  ButtonNote->"https://www.wolfram.com/broadcast/video.php?c=504&v=3610"],
+ " : Abrita Chakravarty"
+}], "Subitem",
+ CellChangeTimes->CompressedData["
+1:eJwlyT9IAmEAh+HPboskEEQJ4kqDwq6giKakjIYEaVCK6A/EUegQKASOIgYN
+NkhxFEQcJdZpBqW0ChYuJXQR5CQVaGh00NAp1pDd7xpenuHtZr3OtRZCiFEJ
+loPT+6Ig2X6T14dQd1WIQVL7UN1tX7qF3reNO8j15ERoamy9wOxIsATHhvRl
+6MvIFdi/mP+ET1z2C05V+mQYJ1QDGlZr35CPVjUPiqmfIgX5A7uLiUu2G3p8
+Fpp47Qqkab3quSvnhjPrpx7I1juicM5hSUCzW1uEfl/oGW7eJzUDip5UWrWZ
+EVoh7U+0wVg4b4QX6UfVwglDQ0ludkHRYR2GLFWfgJHAqx2OdvY6IWe1zEMD
+s7AMj7ZZPnSm/MHIMZwM711C3c6/AVJ9hyXBLME/eW7P4w==
+  
+  "],ExpressionUUID->"64a55fff-9c54-4b38-859f-6089258e3798"],
+
+Cell[TextData[{
+ ButtonBox["Notebooks, Interactivity Interfaces",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://www.wolfram.com/broadcast/video.php?c=504&v=3609"], None},
+  ButtonNote->"https://www.wolfram.com/broadcast/video.php?c=504&v=3609"],
+ ": John Fultz and Lou D\[CloseCurlyQuote]Andria"
+}], "Subitem",
+ CellChangeTimes->CompressedData["
+1:eJxTTMoPSmViYGAQA2IQ/aTBY/r55W8c/60+OAdEC225tgREM3x9DaYn8cec
+BNH5T4tPgegpKkfOg2ilH233QfQBk4bHINrGUPQJiC7Y++U5iNaOPv0eRF+d
+cuAziHZ5rvEFRK9gYP4BosVTvv4E0fMWvWC8AKQ3/rrDDKLnzfIM1lnxxvGQ
+vH0oiFaax5sAouXlRcH0muAj6SDaL2dZBohO+ia1CESH+WitBNHK6bx3QHRZ
+QdM9EN18bjWjLpDO2LgJTP/fu5wLRMuXreQB0Uu6TkuA6PWbLoHpa0t15EH0
+my//FUD0eR9bIxCdxPzNAUT31z3wBNFmsupBIHqKrVYEiD7VVxwHovuKFec3
+rXrj+GhK6hoQDQC7p79S
+  
+  "],ExpressionUUID->"1fe66e49-af6c-4177-b68e-b8548fbdc638"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Wolfram Language Training", "Subsubsection",
+ CellChangeTimes->{{3.8474652134284353`*^9, 3.847465215747776*^9}, {
+  3.847486231003669*^9, 
+  3.847486234906158*^9}},ExpressionUUID->"72726893-3419-41f8-a52d-\
+055e17747f3d"],
+
+Cell["\<\
+Once you have been introduced to the \[OpenCurlyDoubleQuote]look and feel\
+\[CloseCurlyDoubleQuote] of the Mathematica, now it\[CloseCurlyQuote]s time \
+to dig deep into the \[OpenCurlyDoubleQuote]nuts and bolts\
+\[CloseCurlyDoubleQuote] of the Wolfram Language. While it is practically \
+impossible to introduce the thousands of functions that Wolfram Language has \
+introduced since it\[CloseCurlyQuote]s inception, the next series of lectures \
+introduces the basic constructs of the Wolfram Language. Behold, for these \
+lectures are long and full of information.\
+\>", "Text",
+ CellChangeTimes->{{3.8474653032179337`*^9, 3.847465434973237*^9}, {
+  3.84746552582582*^9, 
+  3.847465634431918*^9}},ExpressionUUID->"c9dd9f64-cc4d-4676-b1c7-\
+6162a1ccad08"],
+
+Cell[TextData[{
+ ButtonBox["Wolfram Language Training I",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://www.wolfram.com/broadcast/video.php?c=504&v=3622"], None},
+  ButtonNote->"https://www.wolfram.com/broadcast/video.php?c=504&v=3622"],
+ " :  Bob Nachbar"
+}], "Subitem",
+ CellChangeTimes->CompressedData["
+1:eJxTTMoPSmViYGCQBGIQ/aTBY/r55W8c/60+OAdEC225tgREM3x9DaYn8cec
+BNH5T4tPgegpKkfOg2ilH233QfQBk4bHINrGUPQJiC7Y++U5iNaOPv0eRF+d
+cuAziHZ5rvEFRK9gYP4BosVTvv4E0fMWvWC8AKQ3/rrDDKLnzfIM1lnxxvGQ
+vH0oiFaax5sAouXlRcH0muAj6SDaL2dZBohO+ia1CESH+WitBNHK6bx3QHRZ
+QdM9EN18bjWjLpDO2LgJTP/fu5wLRMuXreQB0Uu6TkuA6PWbLoHpa0t15EH0
+my//FUD0eR9bIxCdxPzNAUT31z3wBNFmsupBIHqKrVYEiBbXiYoF0Qu6k+Y1
+rQLK6/UvBNFOXdM2gGihiRBabrPuHhD9TqL3IIgWv1Z1FES/uAOhAbQN2Os=
+
+  "],ExpressionUUID->"a3dca9ee-7751-451a-aa95-552287c10833"],
+
+Cell[TextData[{
+ ButtonBox["Wolfram Language Training II",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://www.wolfram.com/broadcast/video.php?c=504&v=3623"], None},
+  ButtonNote->"https://www.wolfram.com/broadcast/video.php?c=504&v=3623"],
+ " :  Bob Nachbar"
+}], "Subitem",
+ CellChangeTimes->CompressedData["
+1:eJwlyT1IAgEAhuGz2yIJBLGCurKgMA2KaErKaFCQBqWQfjCOQodCIXAMMWiw
+QYqjIOIosdQUSmtMMHGpg4wgJ6kgw6CDhk7Rhuy+c3h5hreHdllWmwiCaBeD
+Ra/xIBfmDX+x2yOouM6HIFH+ktxrXbyDro+Ne8j0ZXNQXd1+helR7zscH1YW
+oTsllODgAvcNn5n0D5wuDQgwQpBVqFop1yAb/JQ9iiZ+CyRkD01WbYQ3ZKiJ
+Wahm5cuQopSScWvWAWfWzpyQrnQE4ZxZE4W9DnkBety+F7j1EJPpRJ2JpGQ9
+FW6GlCfaAkN+rg1eJJ8k86daCvJCvRvmzPoRSJOVSRjYfDPBsc5+C2T0GhtU
+aeeX4PEOzfrOxT8UOIFT/v1LqNht2HWlu4E1bj0D4zY7B432hv+6Utha
+  
+  "],ExpressionUUID->"4e7ef027-95b0-4b7b-92cb-7dad018b140e"],
+
+Cell[TextData[{
+ ButtonBox["Wolfram Language Training III",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://www.wolfram.com/broadcast/video.php?c=504&v=3624"], None},
+  ButtonNote->"https://www.wolfram.com/broadcast/video.php?c=504&v=3624"],
+ " :  Bob Nachbar"
+}], "Subitem",
+ CellChangeTimes->CompressedData["
+1:eJxTTMoPSmViYGCQBGIQ/aTBY/r55W8c/60+OAdEC225tgREM3x9DaYn8cec
+BNH5T4tPgegpKkfOg2ilH233QfQBk4bHINrGUPQJiC7Y++U5iNaOPv0eRF+d
+cuAziHZ5rvEFRK9gYP4BosVTvv4E0fMWvWC8AKQ3/rrDDKLnzfIM1lnxxvGQ
+vH0oiFaax5sAouXlRcH0muAj6SDaL2dZBohO+ia1CESH+WitBNHK6bx3QHRZ
+QdM9EN18bjWjLpDO2LgJTP/fu5wLRMuXreQB0Uu6TkuA6PWbLoHpa0t15EH0
+my//FUD0eR9bIxCdxPzNAUT31z3wBNFmsupBIHqKrVYEiBbXiYoF0Qu6k+Y1
+rQLK6/UvBNFOXdM2gGihiRBabrPuHhBd8fD6IRA9oVjrHIiuq4LQALek2EU=
+
+  "],ExpressionUUID->"e35ac31c-c3d8-4dba-a98a-28715d2bc34b"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Data Science and Modeling", "Subsubsection",
+ CellChangeTimes->{{3.8474657243113213`*^9, 3.8474657286719017`*^9}, {
+  3.847466681872582*^9, 
+  3.847466697667591*^9}},ExpressionUUID->"d86c01d9-ea06-4831-9f27-\
+70794ae694a5"],
+
+Cell["\<\
+Now that we have some discussed the basics of Mathematica, the two \
+constructs/pillars, we will move ahead with the specialization of this \
+school, we will explore various data science courses that have been offered \
+previously by WolframU. They explore various topics, from multiparadigm \
+approach to data science to the automated way, from visualization techniques \
+to exploring the limits of data science.\
+\>", "Text",
+ CellChangeTimes->{{3.847465733367998*^9, 3.8474657885223722`*^9}, {
+  3.847466651172132*^9, 3.8474666760369883`*^9}, {3.847466722071534*^9, 
+  3.847466844835197*^9}},ExpressionUUID->"e31a203e-5346-4e5e-84ee-\
+b3353a709ac6"],
+
+Cell[TextData[{
+ ButtonBox["Multi-paradigm Data Science",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://www.wolfram.com/wolfram-u/multiparadigm-data-science/"], 
+    None},
+  ButtonNote->"https://www.wolfram.com/wolfram-u/multiparadigm-data-science/"],
+ " : Abrita Chakravarty"
+}], "Subitem",
+ CellChangeTimes->CompressedData["
+1:eJwdxV9EAwEAB+Bbeyhp4pj+kKsVzVoPJT01NYpW08NtJUplNreH2BR7zGwU
+KWNGJPcwW9taZNPrWJmo0SXa01S0dbFTsT9WD6373cPn67M4aFsTQRBdIlxw
+zx5xEUH/F786weRlLoSJakna3756ix3F7TscGMhwWFXffcHpMfcbnhhRFrAz
+VeHx0Er2Cz8F0mU8zasrOErI67jDWv3BbPBD9iCe+M3LMXtsMGmjgv6amlzE
+KlaxgSlKKX1uyjB4YfPUji217iBeMmpiuJ9R5LHL6XnG3vu4bFjcnkhKN1KR
+Vky5Ym04tJ/txBfJR+lcWEthodLoxZxRN4ot8toU9u28GvB4zyCNAzrNMp6n
+fOvYPDNnxWTpncFrh+Gi50zQH+yFeaw22wT87b/5xMmtXLNX3E2TLfgfzGfY
+Ow==
+  "],ExpressionUUID->"43e1bd8b-1c1e-477d-9b91-ab60a84f2e6e"],
+
+Cell[TextData[{
+ ButtonBox["Visual Explorations in Data Science",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://www.wolfram.com/wolfram-u/visual-explorations-in-data-\
+science/"], None},
+  ButtonNote->
+   "https://www.wolfram.com/wolfram-u/visual-explorations-in-data-science/"],
+ ": Mohammad (Mads) Bahrami"
+}], "Subitem",
+ CellChangeTimes->CompressedData["
+1:eJwlxTFIAgEABdAzWwolECQR4sqCxGwooikroSLLGtQiKCpE0UFQCCQIShQK
+ohDiIIhwEE3NIJRWwcqlhIwgJ6kgTcWDhk6xhuz+NTxel9GuMzcRBCFl4bxr
++jgTotW/0etTLLrKBjBRrXAfta3cYXth4x5TPakMltV3X3FyyPWORwbEeexI
+MEXct5z+xM9U8gtPFOUMDhP8Om43Vb+xz1/iPbLHfnJ87DvR6JVhWn1Dji1g
+mU+4jklSzH2hT1nwvO3Mio01qR8vahUR3G0R5rDT4X7Bnocor5/dGotzNxKh
+Vkw6IwIc2E9L8GX8iTsbVJKYZhqdOKNVDWIjvzaOvdtvGjzc0avDlEqxhGdJ
+7xo2TM6YsKjyYcGrh8GC+5xWH+wFi1huMNNYUJ5j8OimpNnDPrXz/1aZasGl
+25gA/wFTdd8f
+  "],ExpressionUUID->"cd3b5497-a544-40ae-801a-162b6b2daad2"],
+
+Cell[TextData[{
+ ButtonBox["Limits of Data Science",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://www.wolfram.com/wolfram-u/automated-data-science/"], None},
+  ButtonNote->"https://www.wolfram.com/wolfram-u/automated-data-science/"],
+ ": John McLoone"
+}], "Subitem",
+ CellChangeTimes->CompressedData["
+1:eJwlxTFIAgEABdAzWwolEiQR4sqCxGwooikroSLLGtQkKCpE0SFQiCQIShQK
+ohBCCCIcRFMzCKVVsHApoYsgJ6kgzcSDhk6xhuz+NTxep8muszQQBCFl4bxr
+6pgK0+rf2PUpFl1lg5iolLmPWpZusb2wfod93WkKy2q7Lzg16HrDw/3iPHYk
+mSLuXcx84idf6guPF+UMjhD8Gm4zV76xP/DBe2CP/+T42H+i0SsjtPqGHJ3H
+Mr9wFZOkmPtCn7biubUzGzZVpQFs1CqiuMsqzGGnw/2MPfcxXh+7LZ7grifD
+zZh0RgU4uJ+R4MvEI3c2pCQxzdQ7MKVVDWATvzqGvduvGjzU3qPDPpViAc+Q
+3hVsmJg2Y1H53YqXD0MF9zmtPtgLFbHcYKGxoDTL4JFNSaOHfXLn/62SrwlT
+G8ZW/AdOgt5i
+  "],ExpressionUUID->"ce9d1a18-0ea2-411e-bfd2-10de6b5265cc"],
+
+Cell[TextData[{
+ ButtonBox["Automated Data Science",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://www.wolfram.com/wolfram-u/automated-data-science/"], None},
+  ButtonNote->"https://www.wolfram.com/wolfram-u/automated-data-science/"],
+ ": Etienne Bernard"
+}], "Subitem",
+ CellChangeTimes->CompressedData["
+1:eJwlxTFIAgEABdAzWwolECQR4sqCxGwookkroSLNGtQiKCpE0SFQCKSpRKEo
+CiGEIMJBNDWDUKJNsHApoYsgl6SCNAsPGjrFGrL71/B4HWaHwdpAEISUhQvu
+iQMqQmt+45dHWHSeC2GiUubeb1m4xo7i6g32d2UoLKttPuP0gPsVq/rEBexM
+MSXcM5/9xA/+9BceLckZHCX4NdxqqXzjQPCdd8ee+MnzceBQa1RGac0VOTyD
+ZQHhMiZJMfepMWPD0yvHdmyuSoN4Vq+I4U6bMI9dTs8T9t7Geb3s9kSSu56K
+NGPSFRPg0E5Wgs+S99y5sJLENFNvx5Re3Y/N/OoI9q2/aPFgW7cB+9WKOTxJ
++pawaUxnwaLymw0v7oWLnhNas7sVLmG5yUpjwccUg4fWJI1e9vGN/1XbF01Y
+91gQ4T9Iyd5V
+  "],ExpressionUUID->"5aaf3c41-e1cb-46d4-859d-fa3db53123d2"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Statistics", "Subsubsection",
+ CellChangeTimes->{{3.8474657243113213`*^9, 3.8474657286719017`*^9}, {
+   3.84746670222346*^9, 3.8474667049828978`*^9}, {3.847486240145602*^9, 
+   3.8474862421866302`*^9}, 
+   3.847494070025669*^9},ExpressionUUID->"6cc046aa-d86a-4ec7-8060-\
+feb8298a16fa"],
+
+Cell["\<\
+While you have been introduced to the topics and general approaches to data \
+science, the next three series of lectures will help you introduce the tools, \
+beginning with statistical analysis and explorations. There are other \
+advanced statistical topics explorations (which might be useful depending on \
+your project topics).\
+\>", "Text",
+ CellChangeTimes->{{3.847465733367998*^9, 3.8474657885223722`*^9}, {
+  3.847466651172132*^9, 3.8474666760369883`*^9}, {3.847466710023334*^9, 
+  3.847466713586602*^9}, {3.8474668467997227`*^9, 3.847466895644453*^9}, {
+  3.8474669652429934`*^9, 3.847466981262907*^9}, {3.847467097526805*^9, 
+  3.847467129177978*^9}},ExpressionUUID->"1f8c25bb-0da3-4b9b-966c-\
+fb2bf7b93a11"],
+
+Cell[TextData[{
+ ButtonBox["Statistical Tool for Data Science",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL[" https://www.wolfram.com/broadcast/video.php?sx=Gosia&v=2804"], None},
+  ButtonNote->
+   " https://www.wolfram.com/broadcast/video.php?sx=Gosia&v=2804"],
+ " : Gosia Konwerska"
+}], "Subitem",
+ CellChangeTimes->{{3.8460776262657337`*^9, 3.846077670052245*^9}, {
+   3.8460777347094812`*^9, 3.846077735373657*^9}, {3.8460780268769007`*^9, 
+   3.846078035621757*^9}, {3.846078078129465*^9, 3.8460782042177896`*^9}, {
+   3.846078236006439*^9, 3.84607824066226*^9}, {3.8460782716481247`*^9, 
+   3.846078334354879*^9}, {3.846078366018168*^9, 3.8460783692782307`*^9}, {
+   3.84607840009383*^9, 3.846078415668468*^9}, {3.8460784792698507`*^9, 
+   3.846078494905602*^9}, {3.846267546300124*^9, 3.8462675619726267`*^9}, {
+   3.8462676484255533`*^9, 3.846267648660049*^9}, {3.846267710135214*^9, 
+   3.846267717200721*^9}, {3.846268176842576*^9, 3.8462682333218184`*^9}, {
+   3.84626864041884*^9, 3.846268660076228*^9}, {3.846268941368959*^9, 
+   3.846268941584156*^9}, {3.846269013241943*^9, 3.846269029295669*^9}, {
+   3.846269126360674*^9, 3.846269126584312*^9}, {3.8462691773952436`*^9, 
+   3.8462691919986477`*^9}, {3.846269329915626*^9, 3.846269447687913*^9}, {
+   3.846269519015449*^9, 3.846269585222316*^9}, {3.846269633320017*^9, 
+   3.84626969247257*^9}, {3.846269730320963*^9, 3.846269797224139*^9}, 
+   3.84626984245975*^9, 3.846271219081716*^9, {3.8474937930686073`*^9, 
+   3.847493793069229*^9}, {3.847493838423224*^9, 
+   3.847493871462674*^9}},ExpressionUUID->"e53a0720-241e-411b-8d9a-\
+f23864f32a5b"],
+
+Cell[TextData[{
+ ButtonBox["Probability and Statistics",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://www.wolfram.com/broadcast/video.php?sx=Gosia&v=2744"], None},
+  
+  ButtonNote->"https://www.wolfram.com/broadcast/video.php?sx=Gosia&v=2744"],
+ ": Gosia Konwerska"
+}], "Subitem",
+ CellChangeTimes->{{3.8460776262657337`*^9, 3.846077670052245*^9}, {
+   3.8460777347094812`*^9, 3.846077735373657*^9}, {3.8460780268769007`*^9, 
+   3.846078035621757*^9}, {3.846078078129465*^9, 3.8460782042177896`*^9}, {
+   3.846078236006439*^9, 3.84607824066226*^9}, {3.8460782716481247`*^9, 
+   3.846078334354879*^9}, {3.846078366018168*^9, 3.8460783692782307`*^9}, {
+   3.84607840009383*^9, 3.846078415668468*^9}, {3.8460784792698507`*^9, 
+   3.846078494905602*^9}, {3.846267546300124*^9, 3.8462675619726267`*^9}, {
+   3.8462676484255533`*^9, 3.846267648660049*^9}, {3.846267710135214*^9, 
+   3.846267717200721*^9}, {3.846268176842576*^9, 3.8462682333218184`*^9}, {
+   3.84626864041884*^9, 3.846268660076228*^9}, {3.846268941368959*^9, 
+   3.846268941584156*^9}, {3.846269013241943*^9, 3.846269029295669*^9}, {
+   3.846269126360674*^9, 3.846269126584312*^9}, {3.8462691773952436`*^9, 
+   3.8462691919986477`*^9}, {3.846269329915626*^9, 3.846269447687913*^9}, {
+   3.846269519015449*^9, 3.846269585222316*^9}, {3.846269633320017*^9, 
+   3.84626969247257*^9}, {3.846269730320963*^9, 3.846269797224139*^9}, 
+   3.84626984245975*^9, 3.846271219081716*^9, {3.8474937930686073`*^9, 
+   3.847493793069229*^9}, {3.847493838423224*^9, 3.847493870790101*^9}, {
+   3.847494051384357*^9, 
+   3.847494067028736*^9}},ExpressionUUID->"cad90ccf-fa84-4d49-8f0d-\
+8baa4b7c2125"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Machine Learning", "Subsubsection",
+ CellChangeTimes->{{3.8474657243113213`*^9, 3.8474657286719017`*^9}, {
+  3.84746670222346*^9, 3.8474667049828978`*^9}, {3.847467261439659*^9, 
+  3.8474672634021883`*^9}},ExpressionUUID->"34213a1b-8627-4fff-9523-\
+9c74f5b7c049"],
+
+Cell["\<\
+In this three-part series you will be introduced to the machine learning \
+framework in Wolfram Language.  These lectures cover topics of supervised and \
+unsupervised machine learning, learning the probability distribution of the \
+data, missing value synthesis, anomaly detection. Finally, the lectures cover \
+various real world examples/explorations using these built-in functions. \
+\>", "Text",
+ CellChangeTimes->{{3.847467268911227*^9, 3.8474673727006474`*^9}, {
+  3.847467417076686*^9, 
+  3.8474675531204557`*^9}},ExpressionUUID->"ba825a8c-63b6-49e9-9a72-\
+2d02253d3035"],
+
+Cell[TextData[{
+ ButtonBox["Machine Learning I",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://www.wolfram.com/broadcast/video.php?c=504&v=3612"], None},
+  ButtonNote->"https://www.wolfram.com/broadcast/video.php?c=504&v=3612"],
+ ": Jesse Galef"
+}], "Subitem",
+ CellChangeTimes->{{3.847494152616024*^9, 3.847494161065095*^9}, {
+  3.847494198090692*^9, 
+  3.847494198091504*^9}},ExpressionUUID->"fdc4c977-c60c-4350-835b-\
+b259f368fd50"],
+
+Cell[TextData[{
+ ButtonBox["Machine Learning II",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://www.wolfram.com/broadcast/video.php?c=504&v=3613"], None},
+  ButtonNote->"https://www.wolfram.com/broadcast/video.php?c=504&v=3613"],
+ ": Etienne Bernard"
+}], "Subitem",
+ CellChangeTimes->{{3.847494152616024*^9, 3.847494170810779*^9}, {
+  3.847494211461166*^9, 
+  3.847494211462037*^9}},ExpressionUUID->"6263943e-760e-4803-bc18-\
+92f5d72f913f"],
+
+Cell[TextData[{
+ ButtonBox["Applications",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://www.wolfram.com/broadcast/video.php?c=504&v=3614"], None},
+  ButtonNote->"https://www.wolfram.com/broadcast/video.php?c=504&v=3614"],
+ ": Jesse Galef"
+}], "Subitem",
+ CellChangeTimes->{{3.847494152616024*^9, 3.8474941797447577`*^9}, {
+  3.8474942234184732`*^9, 
+  3.847494238873438*^9}},ExpressionUUID->"5d64c462-8650-4817-a31a-\
+be0789be101a"],
+
+Cell[TextData[{
+ ButtonBox["Brief introduction to Neural Networks",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://www.wolfram.com/wolfram-u/machine-learning-zero-to-AI-60-\
+minutes/"], None},
+  ButtonNote->
+   "https://www.wolfram.com/wolfram-u/machine-learning-zero-to-AI-60-minutes/\
+"],
+ ": John Mcloone"
+}], "Subitem",
+ CellChangeTimes->{{3.847494152616024*^9, 3.8474941797447577`*^9}, {
+  3.8474942234184732`*^9, 
+  3.8474942693668747`*^9}},ExpressionUUID->"ab0b8fa3-38a6-4922-b4b9-\
+18fb2ae2e6ae"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Others", "Subsubsection",
+ CellChangeTimes->{{3.8474657243113213`*^9, 3.8474657286719017`*^9}, {
+  3.84746670222346*^9, 3.8474667049828978`*^9}, {3.847467261439659*^9, 
+  3.8474672634021883`*^9}, {3.847494290878152*^9, 
+  3.8474942916853237`*^9}},ExpressionUUID->"2fd38a1c-555f-42db-bd31-\
+3c5dd3778ca1"],
+
+Cell["\<\
+Brief introduction to the rich entity framework in Wolfram Language\
+\>", "Text",
+ CellChangeTimes->{{3.847494320767387*^9, 3.847494340003149*^9}, {
+  3.8474945786957617`*^9, 
+  3.847494579191361*^9}},ExpressionUUID->"47437c15-3e44-4c3b-a46b-\
+3ffe799e31b1"],
+
+Cell[TextData[ButtonBox["Built-in knowledge",
+ BaseStyle->"Hyperlink",
+ ButtonData->{
+   URL["https://www.wolfram.com/broadcast/video.php?c=504&v=3618"], None},
+ ButtonNote->
+  "https://www.wolfram.com/broadcast/video.php?c=504&v=3618"]], "Item",
+ CellChangeTimes->{{3.8460776262657337`*^9, 3.846077670052245*^9}, {
+   3.8460777347094812`*^9, 3.846077735373657*^9}, {3.8460780268769007`*^9, 
+   3.846078035621757*^9}, {3.846078078129465*^9, 3.8460782042177896`*^9}, {
+   3.846078236006439*^9, 3.84607824066226*^9}, {3.8460782716481247`*^9, 
+   3.846078334354879*^9}, {3.846078366018168*^9, 3.8460783692782307`*^9}, {
+   3.84607840009383*^9, 3.846078415668468*^9}, {3.8460784792698507`*^9, 
+   3.846078494905602*^9}, {3.846267546300124*^9, 3.8462675619726267`*^9}, {
+   3.8462676484255533`*^9, 3.846267648660049*^9}, {3.846267710135214*^9, 
+   3.846267717200721*^9}, {3.846268176842576*^9, 3.8462682333218184`*^9}, {
+   3.84626864041884*^9, 3.846268660076228*^9}, {3.846268941368959*^9, 
+   3.846268941584156*^9}, {3.846269013241943*^9, 3.846269029295669*^9}, {
+   3.846269126360674*^9, 3.846269126584312*^9}, {3.8462691773952436`*^9, 
+   3.8462691919986477`*^9}, {3.846269329915626*^9, 3.846269447687913*^9}, {
+   3.846269519015449*^9, 3.846269585222316*^9}, {3.846269633320017*^9, 
+   3.84626969247257*^9}, {3.846269730320963*^9, 3.846269797224139*^9}, {
+   3.846269854593485*^9, 3.846269878089863*^9}, {3.846271059264737*^9, 
+   3.8462710749152517`*^9}, {3.846271164835697*^9, 3.8462711653958473`*^9}, 
+   3.846271221939533*^9, {3.847494313361494*^9, 
+   3.8474943176484423`*^9}},ExpressionUUID->"7284dd2f-e3e3-4b5a-9d71-\
+da1aca1b7fc7"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Reading Materials ", "Subsubsection",
+ CellChangeTimes->{{3.846272220495228*^9, 
+  3.846272242393108*^9}},ExpressionUUID->"da2b0877-a955-42ab-8b01-\
+05e2629566e6"],
+
+Cell["\<\
+https://reference.wolfram.com/language/tutorial/NumericalOperationsOnData.\
+html#23729\
+\>", "ItemNumbered",
+ CellChangeTimes->{{3.846272231593404*^9, 3.8462722321408577`*^9}, 
+   3.846272997102438*^9, {3.846273216511389*^9, 3.8462732165119963`*^9}, {
+   3.8462732557546673`*^9, 
+   3.8462732557553263`*^9}},ExpressionUUID->"6aeca82a-b4b8-46dd-8d3d-\
+34291fbfc751"],
+
+Cell["https://www.wolfram.com/featureset/machine-learning/", "ItemNumbered",
+ CellChangeTimes->{{3.846272231593404*^9, 3.8462722321408577`*^9}, 
+   3.846272997102438*^9, {3.846273216511389*^9, 3.8462732165119963`*^9}, {
+   3.8462732560539093`*^9, 
+   3.8462732568642797`*^9}},ExpressionUUID->"67cd0401-91ca-408e-9748-\
+4c26d16df62f"],
+
+Cell["https://www.wolfram.com/featureset/data-science/", "ItemNumbered",
+ CellChangeTimes->{{3.846272231593404*^9, 3.8462722321408577`*^9}, 
+   3.846272997102438*^9, 3.8462732168354177`*^9, {3.846273311825142*^9, 
+   3.846273311826284*^9}},ExpressionUUID->"a96cfd55-e408-40d5-96b8-\
+d92abcd9081b"],
+
+Cell["\<\
+https://reference.wolfram.com/language/tutorial/NeuralNetworksOverview.html\
+\>", "ItemNumbered",
+ CellChangeTimes->{
+  3.846272231593404*^9, {3.8462727840515327`*^9, 
+   3.846272806393702*^9}},ExpressionUUID->"1eb3e5a0-fa8f-438c-96c3-\
+f20a22a07ead"]
+}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Week One: ", "Section",
+ CellChangeTimes->{{3.846271143793954*^9, 3.8462711621604767`*^9}, {
+  3.846271291561068*^9, 
+  3.8462712933777533`*^9}},ExpressionUUID->"d325e436-9ee0-4914-9b81-\
+64726438fab2"],
+
+Cell["\<\
+Please be advised that you will be provided some challenges/exams depending \
+on these topics. The challenges will be provided on a daily basis for the \
+first three days and then you will be graded on them. Depending on your \
+performance you will move further. \
+\>", "Text",
+ CellChangeTimes->{{3.846271168631604*^9, 3.846271175611114*^9}, {
+  3.846271253987101*^9, 3.846271268733551*^9}, {3.846271300094357*^9, 
+  3.846271343762409*^9}},ExpressionUUID->"8dc19784-98bb-49e1-b73b-\
+84e7c6f5a408"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{1203, 925},
+WindowMargins->{{252, Automatic}, {Automatic, 0}},
+PrivateNotebookOptions->{"CloudPublishPath"->"/Published/ReadingList_WeekZero.\
+nb"},
+FrontEndVersion->"13.0 for Mac OS X x86 (64-bit) (November 20, 2021)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"ba1f15bc-58c9-447d-8ca2-b08641b4e7d7"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 1037, 17, 171, "Title",ExpressionUUID->"a386df05-4ac9-4493-806e-5af600c171ce"],
+Cell[CellGroupData[{
+Cell[1642, 43, 174, 3, 67, "Section",ExpressionUUID->"009dae75-b1f5-4033-9484-c2d24dd09d25"],
+Cell[CellGroupData[{
+Cell[1841, 50, 222, 4, 45, "Subsubsection",ExpressionUUID->"2dcc5de0-1ae6-4e90-8114-8a9cdd2fcdab"],
+Cell[2066, 56, 1444, 22, 150, "Text",ExpressionUUID->"804c2b20-c1eb-4355-a4a8-1fee32f5c80e"],
+Cell[3513, 80, 794, 17, 27, "Subitem",ExpressionUUID->"64a55fff-9c54-4b38-859f-6089258e3798"],
+Cell[4310, 99, 811, 17, 27, "Subitem",ExpressionUUID->"1fe66e49-af6c-4177-b68e-b8548fbdc638"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[5158, 121, 227, 4, 45, "Subsubsection",ExpressionUUID->"72726893-3419-41f8-a52d-055e17747f3d"],
+Cell[5388, 127, 767, 13, 81, "Text",ExpressionUUID->"c9dd9f64-cc4d-4676-b1c7-6162a1ccad08"],
+Cell[6158, 142, 810, 17, 27, "Subitem",ExpressionUUID->"a3dca9ee-7751-451a-aa95-552287c10833"],
+Cell[6971, 161, 809, 17, 27, "Subitem",ExpressionUUID->"4e7ef027-95b0-4b7b-92cb-7dad018b140e"],
+Cell[7783, 180, 812, 17, 27, "Subitem",ExpressionUUID->"e35ac31c-c3d8-4dba-a98a-28715d2bc34b"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[8632, 202, 229, 4, 45, "Subsubsection",ExpressionUUID->"d86c01d9-ea06-4831-9f27-70794ae694a5"],
+Cell[8864, 208, 662, 11, 81, "Text",ExpressionUUID->"e31a203e-5346-4e5e-84ee-b3353a709ac6"],
+Cell[9529, 221, 835, 18, 27, "Subitem",ExpressionUUID->"43e1bd8b-1c1e-477d-9b91-ab60a84f2e6e"],
+Cell[10367, 241, 874, 19, 27, "Subitem",ExpressionUUID->"cd3b5497-a544-40ae-801a-162b6b2daad2"],
+Cell[11244, 262, 818, 17, 27, "Subitem",ExpressionUUID->"ce9d1a18-0ea2-411e-bfd2-10de6b5265cc"],
+Cell[12065, 281, 821, 17, 27, "Subitem",ExpressionUUID->"5aaf3c41-e1cb-46d4-859d-fa3db53123d2"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[12923, 303, 291, 5, 45, "Subsubsection",ExpressionUUID->"6cc046aa-d86a-4ec7-8060-feb8298a16fa"],
+Cell[13217, 310, 727, 12, 58, "Text",ExpressionUUID->"1f8c25bb-0da3-4b9b-966c-fb2bf7b93a11"],
+Cell[13947, 324, 1619, 27, 27, "Subitem",ExpressionUUID->"e53a0720-241e-411b-8d9a-f23864f32a5b"],
+Cell[15569, 353, 1658, 28, 27, "Subitem",ExpressionUUID->"cad90ccf-fa84-4d49-8f0d-8baa4b7c2125"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[17264, 386, 269, 4, 45, "Subsubsection",ExpressionUUID->"34213a1b-8627-4fff-9523-9c74f5b7c049"],
+Cell[17536, 392, 589, 10, 81, "Text",ExpressionUUID->"ba825a8c-63b6-49e9-9a72-2d02253d3035"],
+Cell[18128, 404, 448, 11, 27, "Subitem",ExpressionUUID->"fdc4c977-c60c-4350-835b-b259f368fd50"],
+Cell[18579, 417, 453, 11, 27, "Subitem",ExpressionUUID->"6263943e-760e-4803-bc18-92f5d72f913f"],
+Cell[19035, 430, 446, 11, 27, "Subitem",ExpressionUUID->"5d64c462-8650-4817-a31a-be0789be101a"],
+Cell[19484, 443, 516, 14, 27, "Subitem",ExpressionUUID->"ab0b8fa3-38a6-4922-b4b9-18fb2ae2e6ae"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[20037, 462, 310, 5, 45, "Subsubsection",ExpressionUUID->"2fd38a1c-555f-42db-bd31-3c5dd3778ca1"],
+Cell[20350, 469, 268, 6, 35, "Text",ExpressionUUID->"47437c15-3e44-4c3b-a46b-3ffe799e31b1"],
+Cell[20621, 477, 1639, 25, 32, "Item",ExpressionUUID->"7284dd2f-e3e3-4b5a-9d71-da1aca1b7fc7"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[22297, 507, 169, 3, 45, "Subsubsection",ExpressionUUID->"da2b0877-a955-42ab-8b01-05e2629566e6"],
+Cell[22469, 512, 375, 8, 32, "ItemNumbered",ExpressionUUID->"6aeca82a-b4b8-46dd-8d3d-34291fbfc751"],
+Cell[22847, 522, 333, 5, 32, "ItemNumbered",ExpressionUUID->"67cd0401-91ca-408e-9748-4c26d16df62f"],
+Cell[23183, 529, 297, 4, 32, "ItemNumbered",ExpressionUUID->"a96cfd55-e408-40d5-96b8-d92abcd9081b"],
+Cell[23483, 535, 261, 6, 32, "ItemNumbered",ExpressionUUID->"1eb3e5a0-fa8f-438c-96c3-f20a22a07ead"]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[23793, 547, 208, 4, 67, "Section",ExpressionUUID->"d325e436-9ee0-4914-9b81-64726438fab2"],
+Cell[24004, 553, 508, 9, 58, "Text",ExpressionUUID->"8dc19784-98bb-49e1-b73b-84e7c6f5a408"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
+
